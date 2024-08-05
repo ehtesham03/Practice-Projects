@@ -144,11 +144,26 @@
     margin-top: 3rem;
 }
 .footer{
+    margin-top: 78px;
     width: 100%;
-    height:fit-content ;
+    height:19vh ;
     background-color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
 
   
 }
+.l_foot {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    color: white;
+    height: 49px;
+    margin-top: 1px;
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
